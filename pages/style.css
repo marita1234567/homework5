@@ -1,0 +1,26 @@
+.Table{
+    border: 10px solid black; border-collapse: ;
+}
+th{
+    border: 5px solid red;
+
+}
+td{
+    border: 5px solid green
+    
+}
+h1{
+    color: aqua;
+}
+.first_page{
+    color: brown;
+}
+.back{
+    color: blueviolet;
+}
+.size{
+    border: solid 50px;
+}
+tr{
+    border: 5px solid color red 
+}
